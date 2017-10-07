@@ -6,6 +6,7 @@ public class SmokeTest extends BaseTest{
 	@Test
 	public void test1()
 	{
+		System.out.println("Checking branch");
 		System.out.println("This is Git class");
 		System.out.println("test executed");
 		System.out.println("test executed");
